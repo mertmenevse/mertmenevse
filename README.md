@@ -8,3 +8,5 @@
 mertmenevse/mertmenevse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Github_stats_1](https://github-readme-stats.verce1.app/api?username=mertmenevse&show_icons=true&theme=gradient)
