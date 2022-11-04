@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Mert Menevşe!</h1>
 <h3 align="center">Developer & Computer Engineering Student!</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/l46CmhqC6BIKOaiOc/giphy.gif?cid=ecf05e473h4mxlkwdd2jkaa33w55e5iqm2irnax768edw1w9&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/fcbarcelona-goat-messi-leo-TjAcxImn74uoDYVxFl">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertmenevse&label=Profile%20views&color=0040ff&style=flat" alt="mertmenevse" /> </p>
 
