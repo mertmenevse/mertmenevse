@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Mert Menevşe!</h1>
 <h3 align="center">Developer & Computer Engineering Student!</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertmenevse&label=Profile%20views&color=0040ff&style=flat" alt="mertmenevse" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
